@@ -2,6 +2,8 @@
 
 This is a simple JavaScript project that calculates **compound interest** using the standard mathematical formula.
 
+https://antef-sys.github.io/Antef_Task12/
+
 ---
 
 ## 🚀 Project Overview
